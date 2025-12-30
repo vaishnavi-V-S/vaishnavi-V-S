@@ -1,92 +1,84 @@
 # Vaishnavi V Sure
-Java Backend • Full Stack • Data-Aware Developer
 
-Java Full Stack Developer with hands-on experience in building backend-driven web applications using **Java, Spring Boot, Hibernate, and MySQL**.  
-I enjoy turning ideas into working systems, writing clean backend logic, and continuously improving my understanding of data-driven applications.
+### Backend Engineering · Java Full Stack · Data-Aware Systems
 
-Currently focused on strengthening my backend expertise while exploring practical applications of **Machine Learning**.
-
----
-
-## 🧠 What I Do
-- Build backend applications using **Java & Spring Boot**
-- Design and develop **RESTful APIs**
-- Work with relational databases and optimized SQL queries
-- Implement authentication, authorization, and CRUD operations
-- Learn by building real-world projects, not just tutorials
+Java Full Stack Developer with hands-on experience in building backend-driven applications using **Java, Spring Boot, Hibernate, and MySQL**.  
+I enjoy writing clean backend logic, working with data, and building systems that are reliable, readable, and scalable.
 
 ---
 
-## 🧰 Tech Stack
+## 🧠 What I Actually Do
+- Design backend systems using Java & Spring Boot
+- Build RESTful APIs and integrate databases
+- Implement authentication, authorization, and CRUD workflows
+- Work across backend layers: data → services → APIs
+- Learn by building real projects, not just tutorials
+
+---
+
+## 🧰 Tech I Use (Not Just “Know”)
 
 ### Languages
-- Java  
-- Python  
-- SQL  
-- C  
-
-### Backend & Web
-- Spring Boot  
-- Spring Data JPA  
-- Hibernate  
-- Django (Python)  
-- HTML, CSS, JavaScript  
-
-### Databases
-- MySQL  
-- Oracle SQL  
-- SQLite  
-
-### Tools
-- Git & GitHub  
-- Postman  
-- IntelliJ IDEA  
-- Eclipse  
-- VS Code  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-## 🚀 Projects
+### Backend & Web
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Notable Projects
 
 ### 📦 Warehouse Management System
 **Java | Spring Boot | MySQL**
 
-- Developed a role-based warehouse management system
-- Implemented authentication and authorization
-- Built REST APIs for inventory and stock management
-- Designed backend using Spring Boot and JPA
-- Focused on clean architecture and maintainable code
+- Role-based warehouse management system
+- Authentication & authorization using Spring Security
+- REST APIs for inventory and stock operations
+- Focus on clean backend architecture
 
 ---
 
 ### 🌾 Harvest Helper – Crop Recommendation System
 **Machine Learning Project**
 
-- Built a crop recommendation system using **Random Forest**
-- Recommended crops based on soil and environmental parameters
-- Performed data preprocessing and model evaluation
-- Used Pandas, NumPy, Scikit-learn, and Matplotlib
-- Designed for future scalability and real-time data integration
+- Random Forest–based crop recommendation
+- Used soil and environmental parameters
+- Implemented data preprocessing and evaluation
+- Libraries: Pandas, NumPy, Scikit-learn
 
 ---
 
-## 🏫 Education
-**MCA (Computer Science & Engineering)**  
-Visvesvaraya Technological University, Belagavi  
-**CGPA: 8.86**
-
----
-
-## 📈 What I’m Learning & Exploring
-- Backend system design
-- Data-driven decision making
-- Machine learning fundamentals
-- Writing scalable and readable code
+## 🎓 Education
+**MCA – Computer Science & Engineering**  
+VTU Belagavi | **CGPA: 8.86**
 
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-sure-404b4b22b  
-- **Email:** vaishnavisure795@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-sure-404b4b22b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:vaishnavisure795@gmail.com)
 
-> I believe in clean code, continuous learning, and building software that actually works.
+> I value clean code, continuous learning, and building systems that actually work.
